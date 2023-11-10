@@ -1,0 +1,4 @@
+{
+  "OK_Token":{"token": '#string'},
+  "OK_Booking": {"bookingid": , "booking": {"firstname": '#string', "lastname": '#string', "totalprice": 111, "depositpaid": true, "bookingdates": {"checkin": '#string', "checkout": '#string'}, "additionalneeds": '#string'}}
+}

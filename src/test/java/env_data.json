@@ -1,0 +1,13 @@
+{
+  "dev": {
+    "url": {
+      "api-url": "https://restful-booker.herokuapp.com"
+    },
+    "users": {
+      "password": "password123",
+      "userRegister": "admin",
+      "userNoRegister": "aadmin"
+    }
+  }
+
+}
